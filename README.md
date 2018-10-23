@@ -6,3 +6,5 @@ App created based on Speech Synthesis API
 This app works best on Google Chrome, since other browsers do not output all the available voices.
 
 You can also change the rate and pitch of the robo-voice.
+
+Project on codepen.io: https://codepen.io/pukinho-the-sasster/pen/pxOMpz
